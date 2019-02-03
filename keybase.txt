@@ -1,54 +1,56 @@
 ==================================================================
-https://keybase.io/freebogatov
+https://keybase.io/freevlasov
 --------------------------------------------------------------------
 
 I hereby claim:
 
-  * I am an admin of https://freebogatov.org
-  * I am freebogatov (https://keybase.io/freebogatov) on keybase.
-  * I have a public key ASD9JtAQUqoMPdqorU6IA1qJ0Hv4RH7y6TR4ZwzhVDr7Ewo
+  * I am an admin of https://freevlasov.info
+  * I am freevlasov (https://keybase.io/freevlasov) on keybase.
+  * I have a public key ASDSqotWz_jCuTYPdw5geiGds6zdce1CIyUdWC3qiu9u8go
 
 To do so, I am signing this object:
 
 {
-    "body": {
-        "key": {
-            "eldest_kid": "0120fd26d01052aa0c3ddaa8ad4e88035a89d07bf8447ef2e93478670ce1543afb130a",
-            "host": "keybase.io",
-            "kid": "0120fd26d01052aa0c3ddaa8ad4e88035a89d07bf8447ef2e93478670ce1543afb130a",
-            "uid": "04c7760e040621608a2c8a4fee6f8119",
-            "username": "freebogatov"
-        },
-        "service": {
-            "hostname": "freebogatov.org",
-            "protocol": "https:"
-        },
-        "type": "web_service_binding",
-        "version": 1
+  "body": {
+    "key": {
+      "eldest_kid": "0101068d0ec1de8146ab41120fe05519de20e9de3bea62610f3921e20a80187511d40a",
+      "host": "keybase.io",
+      "kid": "0120d2aa8b56cff8c2b9360f770e607a219db3acdd71ed4223251d582dea8aef6ef20a",
+      "uid": "208c0d0b39eddaeab606de5ad6af2219",
+      "username": "freevlasov"
     },
-    "client": {
-        "name": "keybase.io go client",
-        "version": "1.0.21"
-    },
-    "ctime": 1492463888,
-    "expire_in": 504576000,
     "merkle_root": {
-        "ctime": 1492463844,
-        "hash": "b81636db6037c6d741195663a5cdd5161546a038e721afe65d0a06e4dd276567ee139ede949b5104cf595af27f4945d720057f1de82b060ae768c7019a9d1e31",
-        "seqno": 1024896
+      "ctime": 1549200141,
+      "hash": "d4b27ef65e5b21c0e123dfd8227f72748220a59d05dd9c979b56d0378bea9efa08a0ac42d4e52bb28737f774bda084566e8449a0c25307ee5ab898f2344a2f5b",
+      "hash_meta": "a557b2e1ecb5615190791a28e5b52ebdf559cdefb32858449e904a5c286d42a7",
+      "seqno": 4687766
     },
-    "prev": "b1e893fb409d40e342af70873600575c947e2884a156311f80824426c9164242",
-    "seqno": 6,
-    "tag": "signature"
+    "service": {
+      "entropy": "f+oRlMTU+ct+c9T/jUgSHlH3",
+      "hostname": "freevlasov.info",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.13.1"
+  },
+  "ctime": 1549200232,
+  "expire_in": 504576000,
+  "prev": "679502d9b0bd24ba164bbdcc2c5120ebb993f7de7b5ef52b00e39c6fccecc094",
+  "seqno": 5,
+  "tag": "signature"
 }
 
 which yields the signature:
 
-hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg/SbQEFKqDD3aqK1OiANaidB7+ER+8uk0eGcM4VQ6+xMKp3BheWxvYWTFAvt7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwZmQyNmQwMTA1MmFhMGMzZGRhYThhZDRlODgwMzVhODlkMDdiZjg0NDdlZjJlOTM0Nzg2NzBjZTE1NDNhZmIxMzBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwZmQyNmQwMTA1MmFhMGMzZGRhYThhZDRlODgwMzVhODlkMDdiZjg0NDdlZjJlOTM0Nzg2NzBjZTE1NDNhZmIxMzBhIiwidWlkIjoiMDRjNzc2MGUwNDA2MjE2MDhhMmM4YTRmZWU2ZjgxMTkiLCJ1c2VybmFtZSI6ImZyZWVib2dhdG92In0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJmcmVlYm9nYXRvdi5vcmciLCJwcm90b2NvbCI6Imh0dHBzOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4yMSJ9LCJjdGltZSI6MTQ5MjQ2Mzg4OCwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNDkyNDYzODQ0LCJoYXNoIjoiYjgxNjM2ZGI2MDM3YzZkNzQxMTk1NjYzYTVjZGQ1MTYxNTQ2YTAzOGU3MjFhZmU2NWQwYTA2ZTRkZDI3NjU2N2VlMTM5ZWRlOTQ5YjUxMDRjZjU5NWFmMjdmNDk0NWQ3MjAwNTdmMWRlODJiMDYwYWU3NjhjNzAxOWE5ZDFlMzEiLCJzZXFubyI6MTAyNDg5Nn0sInByZXYiOiJiMWU4OTNmYjQwOWQ0MGUzNDJhZjcwODczNjAwNTc1Yzk0N2UyODg0YTE1NjMxMWY4MDgyNDQyNmM5MTY0MjQyIiwic2Vxbm8iOjYsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RAI2pOsO0jO10bDTwUFIYg2mGTIEOmuv8nYC5eGLpan01LtAEPtksj6tH9REB0V2NlT1OrTmFIHMp6lC4l7S0JA6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIME8emlSh446nM7YDeWbHRH0lw3BAChnO2ZPbWxaKHoGo3RhZ80CAqd2ZXJzaW9uAQ==
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg0qqLVs/4wrk2D3cOYHohnbOs3XHtQiMlHVgt6orvbvIKp3BheWxvYWTESpcCBcQgZ5UC2bC9JLoWS73MLFEg67mT9957XvUrAOOcb8zswJTEIGGKl6O/Ms+rO8USbC8VfCpWqco1us2uutuJxrz+LzjIAgHCo3NpZ8RAjDEwZyE8Mo+zRUvj/1pIFWyC+5VyGAT4kMT1E3OCwyzGxyFNUmOnUSpxvhW4/PX8DqNjtDiA+1pvO+FaLCa5CqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIPHJy2yxW0pgABgS7PPRMMy73vMyHRfAu8yDLbfQcxbfo3RhZ80CAqd2ZXJzaW9uAQ==
 
 And finally, I am proving ownership of this host by posting or
 appending to this document.
 
-View my publicly-auditable identity here: https://keybase.io/freebogatov
+View my publicly-auditable identity here: https://keybase.io/freevlasov
 
 ==================================================================

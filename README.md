@@ -1,13 +1,13 @@
-![Free Dmitry Bogatov — #freeBogatov](images/freebogatov-en.jpg)
+![Free Fedor Vlasov — #freeVlasov](images/freevlasov-en.jpg)
 
-# [freebogatov.xyz](https://freebogatov.xyz/en/)
+# [freevlasov.info](https://freevlasov.info/)
 
-Support website about jailed russian mathematician and [software developer](https://qa.debian.org/developer.php?email=KAction%40gnu.org) Dmitry Bogatov aka KAction.
+Support website about jailed russian [software developer](https://tjournal.ru/law/86639-vtoroy-bogatov-istoriya-sozdatelya-alternativnogo-klienta-dlya-vkontakte-kate-mobile-kotoryy-tretiy-mesyac-sidit-v-sizo) Fedor Vlasov.
 
 ## How to build and run
 
 ```bash
-git clone https://github.com/komachi/freebogatov.xyz && cd freebogatov.xyz
+git clone https://github.com/imShara/freevlasov.info && cd freevlasov.info
 bundle install
 bundle exec jekyll serve
 ```
@@ -16,7 +16,7 @@ bundle exec jekyll serve
 
 ```bash
 apt install git make clang nodejs ruby ruby-dev libffi-dev libxml2-dev libxslt-dev pkg-config
-git clone https://github.com/komachi/freebogatov.xyz && cd freebogatov.xyz
+git clone https://github.com/imShara/freevlasov.info && cd freevlasov.info
 gem install bundle pkg-config
 gem install nokogiri -- --use-system-libraries
 bundle install

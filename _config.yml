@@ -1,12 +1,12 @@
 baseurl: ""
-url: "https://freebogatov.xyz"
+url: "https://freevlasov.info"
 
-github: komachi/freebogatov.xyz
+github: imShara/freevlasov.info
 twitter:
-  username: freeBogatov
+  username: freeVlasov
 og:
   type: article
-logo: /images/freebogatov.jpg
+logo: /images/freevlasov.jpg
 defaults:
   -
     scope:
@@ -15,12 +15,9 @@ defaults:
       layout: "default"
       seo:
         type: Article
-      image: /images/freebogatov.jpg
+      image: /images/freevlasov.jpg
 
 languages:
-  - name: English
-    link: '/en'
-    code: en_US
   - name: Русский
     link: '/'
     code: ru_RU
@@ -28,6 +25,6 @@ languages:
 
 # Build settings
 markdown: kramdown
-gems:
+plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
